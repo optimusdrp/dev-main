@@ -1,0 +1,6 @@
+{
+  "name": "MediFlux CRM Health",
+  "description": "CRM voltado para a área da saúde com gestão de histórico de conversas, integração com prontuários eletrônicos, automação com IA, segurança LGPD e auditoria de acessos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
